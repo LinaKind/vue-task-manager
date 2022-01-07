@@ -16,7 +16,7 @@
       "id": "3",
       "text": "Food Shopping",
       "day": "January 9th at 10:30am",
-      "reminder": false
+      "reminder": true
     }
   ]
 }
